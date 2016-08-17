@@ -23,6 +23,8 @@ public class MainActivity extends AppCompatActivity {
     private String tag = "MainActivity";
     private String TAG = "MainActivity";
 
+    //这是create branch and pull request 的测试 内容
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
